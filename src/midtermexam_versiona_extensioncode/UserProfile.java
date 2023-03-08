@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package midtermexam_versiona_extensioncode;
+//Adding a new comment (Suzana)
 
 /**
  * The user profile for the OnlineVids system. The user has a userID
